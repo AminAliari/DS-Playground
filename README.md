@@ -1,6 +1,6 @@
-# DS-Playground
+# DS-Playground - Amirkabir University of Technology
 
-##Codes
+## Codes
   1. [Linked List](https://github.com/AminAliari/DS-Playground/tree/master/Linked%20List)
   2. [General Linked List](https://github.com/AminAliari/DS-Playground/tree/master/General%20Linked%20List)
   3. [Big Number Problem](https://github.com/AminAliari/DS-Playground/blob/master/HW2/main.cpp)
